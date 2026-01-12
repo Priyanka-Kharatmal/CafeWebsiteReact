@@ -1,0 +1,328 @@
+{
+  "categories": [
+    {
+      "id": "1767596203961",
+      "name": "Coffee"
+    },
+    {
+      "id": "1767596216197",
+      "name": "Beverages"
+    },
+    {
+      "id": "1767596228438",
+      "name": "Snacks"
+    },
+    {
+      "id": "1767596241754",
+      "name": "Desserts"
+    },
+    {
+      "id": "1767605778388",
+      "name": "Breakfast"
+    }
+  ],
+  "menu": [
+    {
+      "id": "1",
+      "name": "Cappuccino",
+      "category": "1767596203961",
+      "price": "8",
+      "image": "cappuccino.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "Latte",
+      "category": "1767596203961",
+      "price": "10",
+      "image": "latte.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Blueberry Muffin",
+      "category": "1767596228438",
+      "price": "6",
+      "image": "blueberrymuffins.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Chocochip Brownie",
+      "category": "1767596241754",
+      "price": "7",
+      "image": "chocochipbrownie.webp"
+    },
+    {
+      "id": "5",
+      "name": "Triple Chocolate Brownie",
+      "category": "1767596241754",
+      "price": "12",
+      "image": "triplechocolatebrownies.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Americano",
+      "category": "1767596203961",
+      "price": "9",
+      "image": "americano.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "Lemonade",
+      "category": "1767596216197",
+      "price": "5",
+      "image": "lemonade.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Solo",
+      "category": "1767596216197",
+      "price": "2",
+      "image": "solo.jpeg"
+    },
+    {
+      "id": "9",
+      "name": "Avocado Toast",
+      "category": "1767596228438",
+      "price": "12.15",
+      "image": "avocadotoast.jpg"
+    }
+  ],
+  "reservations": [
+    {
+      "id": "9bbe",
+      "name": "Priyanka Kisan Kharatmal",
+      "date": "2025-08-20",
+      "guests": "2"
+    },
+    {
+      "id": "6d07",
+      "name": "Priyanka Kisan Kharatmal",
+      "date": "2025-09-15",
+      "guests": "2"
+    },
+    {
+      "id": "8149",
+      "name": "Raj",
+      "date": "2026-01-08",
+      "guests": "2"
+    },
+    {
+      "id": "2826",
+      "name": "Priyanka",
+      "date": "2026-01-11",
+      "guests": "4"
+    }
+  ],
+  "order": [
+    {
+      "id": "baf8",
+      "items": [
+        {
+          "id": 1,
+          "name": "Cappuccino",
+          "price": 4.5,
+          "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+        },
+        {
+          "id": 4,
+          "name": "Chocochip Brownie",
+          "price": 5.5,
+          "image": "https://momfoodie.com/wp-content/uploads/Double-Chocolate-Brownies-Package-5-7.jpg"
+        }
+      ],
+      "total": 10,
+      "date": "2025-08-18T08:21:36.397Z"
+    },
+    {
+      "id": "d912",
+      "items": [
+        {
+          "id": "1",
+          "name": "Cappuccino",
+          "price": 4.5,
+          "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+        },
+        {
+          "id": "2",
+          "name": "Latte",
+          "price": 4,
+          "image": "https://images.unsplash.com/photo-1512568400610-62da28bc8a13"
+        }
+      ],
+      "total": 8.5,
+      "date": "2025-09-14T05:35:36.258Z"
+    },
+    {
+      "id": "45ea",
+      "items": [
+        {
+          "id": "1",
+          "name": "Cappuccino",
+          "price": 4.5,
+          "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+        },
+        {
+          "id": "1",
+          "name": "Cappuccino",
+          "price": 4.5,
+          "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348"
+        }
+      ],
+      "total": 9,
+      "date": "2025-09-14T05:36:01.454Z"
+    },
+    {
+      "id": "14c8",
+      "items": [
+        {
+          "id": "1",
+          "name": "Cappuccino",
+          "category": "1767596203961",
+          "price": "8",
+          "image": "cappuccino.jpeg"
+        }
+      ],
+      "total": null,
+      "date": "2026-01-11T06:49:46.881Z"
+    },
+    {
+      "id": "935c",
+      "items": [
+        {
+          "id": "1",
+          "name": "Cappuccino",
+          "price": 8,
+          "image": "cappuccino.jpeg",
+          "qty": 1
+        },
+        {
+          "id": "0383",
+          "name": "Coffee Lovers Combo",
+          "price": 12.5,
+          "image": "combo1.jpg",
+          "qty": 1
+        }
+      ],
+      "total": 20.5,
+      "date": "2026-01-11T07:09:25.684Z"
+    },
+    {
+      "id": "1e27",
+      "items": [
+        {
+          "id": "5",
+          "name": "Triple Chocolate Brownie",
+          "price": 12,
+          "image": "triplechocolatebrownies.jpg",
+          "qty": 1
+        },
+        {
+          "id": "6",
+          "name": "Americano",
+          "price": 9,
+          "image": "americano.jpeg",
+          "qty": 1
+        },
+        {
+          "id": "09c2",
+          "name": "Power Breakfast",
+          "price": 16.9,
+          "image": "combo2.jpeg",
+          "qty": 1
+        }
+      ],
+      "total": 37.9,
+      "date": "2026-01-11T08:33:10.343Z"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "44b9",
+      "name": "Priyanka Kharatmal",
+      "email": "kharatmalpriyanka8@gmail.com",
+      "phoneno": "0433667559",
+      "message": "Liked the Menu.",
+      "date": "2026-01-05"
+    },
+    {
+      "id": "02b3",
+      "name": "D D Mahavarkar",
+      "email": "rajmahavarkar@gmail.com",
+      "phoneno": "0432162059",
+      "message": "We loved your coffee ranges.",
+      "date": "2026-01-05"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "3acd",
+      "title": "The Journey Begins",
+      "image": "/gallery_images/2015.jpg",
+      "description": "In 2015, Raj arrived in Australia carrying a deep passion for coffee and a vision to create a space where people could slow down, connect, and enjoy meaningful moments over a perfectly brewed cup."
+    },
+    {
+      "id": "5e20",
+      "title": "Mini Van Cafe",
+      "image": "/gallery_images/2017.png",
+      "description": "By 2017, that vision came to life in the most humble way — inside a small mini van. With limited space but unlimited dedication, Raj served freshly brewed coffee and a simple yet soulful first menu. The warmth, flavours, and personal touch quickly won the hearts of locals."
+    },
+    {
+      "id": "9ae8",
+      "title": "First Store Opened",
+      "image": "/gallery_images/2018.jpeg",
+      "description": "Encouraged by growing support, 2018 marked a major milestone as Raj’s Cafe opened its first physical store. The cafe became a welcoming place filled with the rich aroma of coffee, friendly conversations, and carefully crafted dishes that reflected quality and care."
+    },
+    {
+      "id": "fffc",
+      "title": "Local Favourite",
+      "image": "/gallery_images/2019.jpg",
+      "description": "The community’s love continued to pour in, and by 2019, Raj’s Cafe had become a local favourite, known not just for great coffee but for the feeling of comfort and belonging it offered."
+    },
+    {
+      "id": "d00b",
+      "title": "Award Winning Cafe",
+      "image": "/gallery_images/2020.png",
+      "description": "In 2020, the journey reached a proud moment of recognition when Raj’s Cafe was honoured with the Best Cafe in the City Award — a testament to consistency, quality, and customer trust."
+    },
+    {
+      "id": "7dae",
+      "title": "Best Brunch & Coffee",
+      "image": "/gallery_images/today.jpg",
+      "description": "Today, Raj’s Cafe stands as one of the best-rated cafes in town, celebrated for its delicious brunch offerings and wide variety of expertly brewed coffees. Loved by locals and visitors alike, Raj’s Cafe remains true to its roots — serving every cup with passion, heart, and a commitment to excellence."
+    }
+  ],
+  "specials": [
+    {
+      "id": "0383",
+      "name": "Coffee Lovers Combo",
+      "items": [
+        "Cappuccino",
+        "Chocochip Brownie"
+      ],
+      "price": "12.50",
+      "originalPrice": "15",
+      "image": "combo1.jpg"
+    },
+    {
+      "id": "09c2",
+      "name": "Power Breakfast",
+      "items": [
+        "Avocado Toast",
+        "Cappuccino"
+      ],
+      "price": "16.90",
+      "originalPrice": "20.15",
+      "image": "combo2.jpeg"
+    },
+    {
+      "id": "c1ab",
+      "name": "Brownie Blast Deal",
+      "items": [
+        "Triple Chocolate Brownie",
+        "Americano"
+      ],
+      "price": "17.90",
+      "originalPrice": "21",
+      "image": "combo3.jpg"
+    }
+  ]
+}
