@@ -1,12 +1,114 @@
 # React + Vite
+# 🌟 CafeWebsiteReact 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to CafeWebsiteReact - Raj's Cafe! ☕
+A modern, responsive café website built with React, Tailwind CSS, and MongoDB. This project showcases a complete front-end and back-end café management system with menu, specials, gallery, and admin features. 
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👩‍💻 About This Project
 
-## Expanding the ESLint configuration
+💻 A full-stack web application for cafés to showcase their menu, manage specials, and provide a smooth customer experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌐 Features a customer-facing site and an admin panel for managing menu items, categories, and gallery images.
+
+📑 Implements CRUD operations and REST API integration with MongoDB / db.json (for local testing).  
+
+---
+
+## 🛠 Tech Stack
+Frontend:
+
+>React.js
+
+>React Router
+
+>Tailwind CSS
+
+>Bootstrap
+
+>Material UI (MUI)
+
+>Axios
+
+
+Backend:
+
+>Node.js
+
+>Express.js
+
+>MongoDB
+
+>Postman (API testing)
+
+>JSON Server (for local db.json testing)
+
+---
+
+## 📌 Features
+Customer Side:
+
+>Responsive café website UI
+
+>Browse menu, specials, and gallery
+
+>Add items to cart
+
+>View promotions & offers
+
+>Contact form
+
+Admin Panel:
+
+>Add, edit, and delete menu items
+
+>Manage categories (coffee, drinks, food, etc.)
+
+>Upload and manage images
+
+>Manage gallery and specials
+
+>Data stored in database (MongoDB / db.json for local testing)
+
+---
+
+## 📸 Screens Included
+
+Home Page
+
+Menu Page
+
+Specials
+
+Gallery
+
+Admin Dashboard
+
+---
+
+🎯 Purpose of the Project
+
+This project was built to demonstrate:
+
+Full-stack web development skills
+
+REST API integration
+
+CRUD operations
+
+UI/UX design with Tailwind CSS
+
+Real-world café management system
+
+---
+
+## 🚀 Getting Started  
+
+Clone this repository and open it in your browser:  
+
+```bash
+git clone https://github.com/yourusername/CafeWebsiteReact.git
+cd CafeWebsiteReact
+
+
